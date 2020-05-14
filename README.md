@@ -1,7 +1,9 @@
 # Tint-Deep-Q-Ai
 
-Author: 	John Bowersox, 
+Author: 	John Bowersox
+
 Date:		12/10/2019
+
 Title: 		Tint Deep Q Ai
 
 This is a final project for my graduate course in applied machine learning and ai, where I worked with a 
